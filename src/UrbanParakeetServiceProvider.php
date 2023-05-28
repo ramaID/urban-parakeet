@@ -2,9 +2,9 @@
 
 namespace RamaID\UrbanParakeet;
 
+use RamaID\UrbanParakeet\Commands\UrbanParakeetCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use RamaID\UrbanParakeet\Commands\UrbanParakeetCommand;
 
 class UrbanParakeetServiceProvider extends PackageServiceProvider
 {
