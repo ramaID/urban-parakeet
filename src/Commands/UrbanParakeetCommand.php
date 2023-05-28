@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace RamaID\UrbanParakeet\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class UrbanParakeetCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'urban-parakeet';
 
     public $description = 'My command';
 
